@@ -1,0 +1,22 @@
+* 9391744 Agregando 2 parrafos
+*   d3b292a Agregando estaciones del año con fecha
+|\  
+| * ae9be63 Agregando las estaciones del año
+* | 299ee3b Agregando estaciones del año con fecha
+|/  
+*   f09cfd9 Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 4838dd5 Agregando index.js al index.html
+* | 0c04d64 Agregando style.css al index.html
+* |   5fa87a9 Merge branch 'js' into main
+|\ \  
+| * | 55b6a83 Creando archivo index.js
+* | | ecfc069 Creando archivo style.css
+| |/  
+|/|   
+* | dba0b0d Creando archivo index.html
+|/  
+* 827409c Ignorando archivos .exe
+* 5170fc0 Creando Licencia del nuevo repositorio
+* 774bbdb Haciendo mas cambios en este curso de git
+* c661057 agregando los archivos iniciales del proyecto
